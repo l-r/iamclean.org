@@ -1,7 +1,7 @@
 # iamclean.org
-
-I've decided to port this here for archival purposes. The website iamclean.org does not actually exist anymore.
-
+ 
+I've decided to port this here for archival purposes (2013). The website iamclean.org does not actually exist anymore.
+I've only pushed the Arduino code since the rest is plain vanilla PHP/XML.
 Please note, the code was written in 2007 (it's old!).
 
 ![Alt text](/finished.jpg "Optional title")
@@ -49,7 +49,7 @@ So this is basically how the data flows...from the docking station to the Arduin
   * Monitor Mode @ bootup : enabled
   * HTTP Port Number : 80
   * SMTP Port Number : 25
- 
+
 **important notes**
   * Remote IP address : thats the address of your server. You HAVE to fill it in. because...
   * Connect mode C5 is auto-connect. which means as soon as the xPort is booted, it will connect to your server IP address.
